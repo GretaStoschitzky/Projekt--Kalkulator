@@ -1,1 +1,2 @@
-# Projekt--Kalkulator
+# Kalkulator
+Projekt pri predmetu Uvod v Programiranje
